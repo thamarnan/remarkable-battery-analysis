@@ -26,7 +26,7 @@ while true; do # just keep running till battery runs out
 #	echo $temperature 
 
 	COUNTER=$[$COUNTER +1]
-	line=$COUNTER","$capacity","$percent","$voltage","$temperature 
+	line=$COUNTER","$capacity","$percent","$voltage","$current","$temperature 
 	echo $line >> $logfile
 	echo $line
 	sleep 1
