@@ -42,4 +42,8 @@ Here are the others parameter I've capture:
 
 ![enter image description here](https://github.com/thamarnan/remarkable-battery-analysis/blob/master/images/temp.png?raw=true)
 
-If I have more time, I'll check out the actual time of recharging.
+
+Charging from 10% to 100 % takes around 3.5 Hours.
+Graph coming soon.
+
+
