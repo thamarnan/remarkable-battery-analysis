@@ -29,5 +29,9 @@ while true; do # just keep running till battery runs out
 	line=$COUNTER","$capacity","$percent","$voltage","$current","$temperature 
 	echo $line >> $logfile
 	echo $line
-	sleep 1
+#	sleep 1
+#	Adjust the interval time here
+	sleep 60
+	#Take only one sample per minute
+	
 done
