@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # Plotting Battery Level rM tablet
 # Codex Version 1309
